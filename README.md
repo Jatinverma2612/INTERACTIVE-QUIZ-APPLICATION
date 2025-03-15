@@ -55,3 +55,7 @@ This project helped me to improve my HTML, CSS, and JavaScript skills. I learned
 
 Most importantly, being a part of this internship has been a great journey. I feel grateful for the opportunity to work on this project, learn new things, and enhance my coding skills. Looking forward to more exciting projects ahead! :)
 This was a fun and educational experience!
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/bab6f9f3-2780-4c75-a9bf-57355840ba96)
