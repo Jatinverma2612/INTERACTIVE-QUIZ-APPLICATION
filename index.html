@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz-Game</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+</head>
+<body>
+    <div class="Container">
+        <div class="quiz-box">
+            <div class="head-box">
+                <h1>Quiz App</h1>
+            </div>
+            <br>
+            <h2 id="questions">Loading...</h2>
+            <br>
+            <div class="options" id="options"></div>
+            <button id="btn1" onclick="nextQuestion()">Next</button>
+            <button id="btn2" onclick="showScore()">Submit</button>
+            <h2 id="Score" style="display: none;">Your Score : <span id="your-score"></span></h2>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
